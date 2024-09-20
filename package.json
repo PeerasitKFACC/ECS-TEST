@@ -1,0 +1,11 @@
+{
+  "name": "ECS-TEST",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:PeerasitKFACC/ECS-TEST.git",
+  "author": "peerasit_k <peerasit_k@flowaccount.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
